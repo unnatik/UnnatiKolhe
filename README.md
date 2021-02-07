@@ -11,10 +11,10 @@ JavaScript | SQL | HTML | CSS
   <b><i>Let's connect! Find me on the web.</i></b>
 
 <p align='center'>
-[<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />](https://unnatikolhe.hashnode.dev/)
-<a href="mailto:unnatikolhe@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 </p>
+
+[<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />](https://unnatikolhe.hashnode.dev/)
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/unnati-kolhe/)
 
 
 <br />
