@@ -25,7 +25,7 @@ JavaScript | SQL | HTML | CSS
 
 [![Unnati's GitHub stats](https://github-readme-stats.vercel.app/api?username=unnatik&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unnatik&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unnatik&langs_count=4&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [Hashnode]: https://unnatikolhe.hashnode.dev/
