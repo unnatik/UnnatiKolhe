@@ -34,7 +34,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
-[![Unnati's GitHub stats](https://github-readme-stats.vercel.app/api?username=unnatik&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Unnati's GitHub stats](https://github-readme-stats.vercel.app/api?username=unnatik&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unnatik&langs_count=4&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
