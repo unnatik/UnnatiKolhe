@@ -1,6 +1,6 @@
 ## Hey 👋, I am [Unnati Kolhe](https://unnatikolhe.hashnode.dev/)
 <br>
-<!--<img align="right" width="50%" src="">
+<!--<img align="right" width="50%" src="">-->
 
 - :anchor:	Primary coding language JavaScript
 - 🔭 I’m currently getting my grip on Competitive Coding
