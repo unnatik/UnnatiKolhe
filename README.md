@@ -6,8 +6,9 @@
 - 🔭 I’m currently getting my grip on Competitive Coding
 - :hourglass:	 I’m currently looking for an internship :)
 - 🥅 2021 Goals: Expertise in web development(Backend), contribute to Open Source projects and grow as a developer!
-- 📫 I share what I think on [Hashnode](https://unnatikolhe.hashnode.dev/)
+- 📝 I share what I think on [Hashnode](https://unnatikolhe.hashnode.dev/)
 - ⚡ Facts about me: I love reading books and watch movies, series!
+- 📫 The best way to reach me **unnatikolhe@gmail.com**
 - 😄 Pronouns: She/Her/Bro
 
 #### Let's connect! Find me on the web :earth_asia:	</i></b>
