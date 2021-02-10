@@ -10,8 +10,7 @@
 - ⚡ Facts about me: I love reading books and watch movies, series!
 - 😄 Pronouns: She/Her/Bro
 
-<p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+#### Let's connect! Find me on the web :earth_asia:	</i></b>
 
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
 <a href="mailto:unnatikolhe@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
