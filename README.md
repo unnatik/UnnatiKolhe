@@ -3,7 +3,7 @@
 <!--<img align="right" width="50%" src="">-->
 
 - :anchor:	Primary coding language C++
-- 🔭 I’m currently getting my grip on Competitive Coding
+<!--- 🔭 I’m currently getting my grip on Competitive Coding-->
 - :hourglass:	 I’m currently looking for an internship :)
 - 🥅 2021 Goals: Expertise in web development(Backend), contribute to Open Source projects and grow as a developer!
 - 📝 I share what I think on [Hashnode](https://unnatikolhe.hashnode.dev/)
