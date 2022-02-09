@@ -2,7 +2,7 @@
 <br>
 <!--<img align="right" width="50%" src="">-->
 
-- :anchor:	Primary coding language C++
+- :anchor:	Primary coding language Java
 - :hourglass:	 I’m currently looking for an internship :)
 - 🥅 2021 Goals: Expertise in web development(Backend), contribute to Open Source projects and grow as a developer!
 - ⚡ Facts about me: I love reading books and watch movies, series!
