@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Expertise in web development(Backend), contribute to Open Source projects and grow as a developer!
 - ⚡ Facts about me: I love reading books and watch movies, series!
 - 📫 The best way to reach me **unnatikolhe@gmail.com**
-- 😄 Pronouns: She/Her/Bro
+- 😄 Pronouns: She/Her
 
 <!--- 🔭 I’m currently getting my grip on Competitive Coding-->
 <!---- 📝 I share what I think on [Hashnode](https://unnatikolhe.hashnode.dev/)-->
